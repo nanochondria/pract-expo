@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 bla blaasfdaqfqeaf
 =======
 bla bla
@@ -7,3 +8,6 @@ bla bla
 =======
 bla bla
 >>>>>>> 71db26e (testing)
+=======
+bla blaasfdaqfqeaf
+>>>>>>> 4c9a16c (stuff)
