@@ -25,6 +25,6 @@ jobs:
         run: npm run build
 
       - name: Announce
-        run: Echo "Pipeline Done"
-
-      
+        run: |
+          echo "Bye, Plumber"
+          
