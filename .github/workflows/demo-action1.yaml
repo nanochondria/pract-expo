@@ -23,3 +23,8 @@ jobs:
 
       - name: Build
         run: npm run build
+
+      - name: Announce
+        run: Echo "Pipeline Done"
+
+      
